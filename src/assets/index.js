@@ -20,7 +20,7 @@ import threejs from "./tech/threejs.svg";
 
 import holopin from "./holopin.png";
 import hf from "./hf.svg";
-import bny from "./bny.png";
+import bny from "./bny.jpeg";
 import clg from "./clg.png";
 import school from "./school.png";
 

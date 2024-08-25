@@ -37,26 +37,18 @@ import {
 
   const achievements = [
     {
-      title: "8th Position : Selected for the final round of 12th CSI InApp International Student Project awards 2023.",
+      title: "1st Position : Nightsprint Hackathon: Emerged as the top performer in a highly competitive hackathon, surpassing 25 other teams.",
     },
     {
-      title: "Twice State level Table-Tennis Winner (2021 and 2022)",
+      title: "10th Position: Prasunet Hackathon: Ranked in the top 10 out of over 3400 registered participants in web development branch.",
     },
     {
-      title: "1st Position : Consecutive four times Winner of UdChalo Scholarship (2019 - 2023)",
+      title: "1st Position : SAASC LEAGUE WINNER: Secured first place in a multidisciplinary competition involving quizzing, debating, and public speaking, outpacing 10 teams from across the college.",
     },
     {
-      title: "Branch Head of Information Technology Department (2021 - 2022)",
+      title: "Participated in : PEC MUN '23Represented a country in a Model United Nations event with over 100 registered participants, contributing to debates and drafting resolutions on global issues.",
     },
-    {
-      title: "Selected in top 100 candidates for Google Cloud Training among 20k Students.",
-    },
-    {
-      title: "Got Education Scholarship Scheme for Army Personnel(ESSA) Scholarship (2015 - 2023)",
-    },
-    {
-      title: "Played Nationals in Throwball for U-14 category. (2015)",
-    },
+    
   ]
   
   const technologies = [
@@ -306,89 +298,72 @@ import {
   
   const experiences = [
     {
-      title: "Software Devloper",
-      company_name: "Bank of New York Mellon",
+      title: "Software Devloper Trainee",
+      company_name: "Forage",
       icon: bny,
-      iconBg: "#383E56",
-      date: "Aug 2023 - Present",
-      link: "",
+      iconBg: "#0BD8B6",
+      date: "July 2024 - July 2024",
+
       points: [
-        "Software build is now used internally in the company and by the company’s clients for operating Netx360 and Netx360+.",
-        "Resolved more than 50+ Software Composition Analysis (SCA) and vulnerabilities issues.",
-        "Adapted Agile methodologies, CI/CD, and Test-Driven Programming to uphold strong programming practices.",
-        "Using technologies like Java, SpringBoot, C#, .NET and AngularJS.",
+        "Completed a self-paced program, gained hands-on experience in financial data analysis and coding skills in React,",
+         "and JavaScript; contributed to an open-source project, and improved technical contribution skills."
       ],
-      link: "https://drive.google.com/drive/folders/13FK-YewFDv8ALmzKglPBmb6Z3oenuYoP",
+      
     },
     {
-      title: "Research Intern",
-      company_name: "National Security Council Secretriat",
-      icon: "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-national-security-agency-crowdfunding-flaticons-lineal-color-flat-icons-2.png",
-      iconBg: "#383E56",
-      date: "Mar 2022 - Oct 2023",
-      link: "",
-      points: [
-        "Creating a system for secure fine-grained next-generation access control and authorization of digital assets and operations using policy based cryptosystem.",
-        "Collaborating with cross-functional technologies like spring boot, react etc. to integrate high-quality products.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-      link: "https://github.com/codewithrathi",
-    },
-    {
-      title: "DSA Mentor",
-      company_name: "GeeksforGeeks (Intern)",
-      icon: "https://img.icons8.com/color/344/GeeksforGeeks.png",
+      title: "Introduction to Embedded Systems Software and Development Environments",
+      company_name: "University of Colorado Boulder",
+      icon: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/a6/7035b7e00b401383be4e5856b8bdaa/Boulder-FL-VERT-B---cropped.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=2",
       iconBg: "#E6DEDD",
-      date: "May 2022 - Apr 2023",
+      date: "June 2024 - Aug 2024",
       link: "",
       points: [
-        "Teaching Assistant : Teaching Assistant for online batches of Data Structures, Algorithms, and Competitive programming with an average rating of 4.9*.",
-        "Responsible for reviewing and writing articles based on Data Structures and Algorithms.",
-      ],
-      link: "https://drive.google.com/drive/folders/1efpnfKpRTvtujtSgHwRIJdrMFiWrBFHt",
-    },
-    {
-      title: "Technical Content Writer",
-      company_name: "GeeksforGeeks",
-      icon: "https://img.icons8.com/color/344/GeeksforGeeks.png",
-      iconBg: "#383E56",
-      date: "Dec 2020 - July 2022",
-      link: "",
-      points: [
-        "Creative and experienced content writer with 2+ years of experience.",
-        "Attracted over 10000+ visitors to the company website with powerful educational content.",
-        "Wrote 100+ articles and improved 300+ articles on topics like Data Structures, Algorithms, Mathematics and related engineering topics",
-      ],
-      link: "https://auth.geeksforgeeks.org/user/_shinchancode",
-    },
-    {
-      title: "Google Cloud Training",
-      company_name: "Google Cloud",
-      icon: "https://img.icons8.com/fluency/344/google-cloud.png",
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Apr 2021",
-      link: "",
-      points: [
-        "Introduction to GCP and more functionalities with free access to quests, skill badges.",
-        "Collaborating with cross-functional technologies.",
-        "Got introduced to Computing, Application Development, Big Data and Machine Learning using Google Cloud's on training platform Qwiklabs",
-        "Additional self-paced labs were provided to practice on Qwiklabs a platform by Google",
+        "Completed a hands-on course in Embedded Systems Software, focusing on ARM-based microcontrollers, software configuration management, and build system development using GNU Toolchain GCC and Git."
       ],
       link: "https://www.cloudskillsboost.google/public_profiles/48dcd029-03b4-437b-9dd3-ef7d65958eb0",
     },
     {
-      title: "Hacktoberfest",
-      company_name: "GitHub",
-      icon: hf,
-      iconBg: "#E6DEDD",
-      date: "Oct (2020 - 2022)",
+      title: "Website Team Lead",
+      company_name: "E-Summit '24",
+      icon: "https://www.citywoofer.com/blog/wp-content/uploads/2023/04/esummit-283x400.jpg",
+      iconBg: "#6E56CF",
+      date: "Feb 2024 - Mar 2024",
       link: "",
       points: [
-        "Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR).",
-        "GitHub hosts many open source repositories that contribute to this event.",
+        
+        "Led a team of 7 in the development of a live JavaScript website for the EIC's flagship inter-college event, delivering a comprehensive digital ",
+        "catalogue that significantly enhanced participant engagement and user experience."
       ],
-      link: "https://dev.to/shinchancode",
+      link: "https://github.com/codewithrathi",
     },
+    {
+      title: "Executive Membeer",
+      company_name: "ACM CSS",
+      icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg/1200px-Association_for_Computing_Machinery_%28ACM%29_logo.svg.png",
+      iconBg: "#E6DEDD",
+      date: "Aug 2024 - Present",
+      link: "",
+      points: [
+        "Manage students and coordinate their involvement in the Society where more than 800 students are enrolled.",
+
+      ],
+      link: "https://drive.google.com/drive/folders/1efpnfKpRTvtujtSgHwRIJdrMFiWrBFHt",
+    },
+    {
+      title: "Active Membere Cyber Security Mission 3.0",
+      company_name: "Chandigarh Police",
+      icon: "https://static.theprint.in/wp-content/uploads/2023/02/ANI-20230214005215.jpg",
+      iconBg: "rgba(255, 255, 255, 255)",
+      date: "Nov 2022 - July 2024",
+      link: "",
+      points: [
+        "Advocate awareness on cyber threats, preventive measures, and hon mass interaction skills through regular drives in Tricity.",
+        
+      ],
+      link: "https://auth.geeksforgeeks.org/user/_shinchancode",
+    },
+   
+   
   ];
   
   const educations = [

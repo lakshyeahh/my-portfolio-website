@@ -40,9 +40,9 @@ const Contact = () => {
         'template_5g175sf',
         {
           from_name: form.name,
-          to_name: "Aarti Rathi",
+          to_name: "Lakshya Verma",
           from_email: form.email,
-          to_email: "aarti.rathi1710@gmail.com",
+          to_email: "verma.lakshya071@gmail.com",
           message: form.message,
         },
         'FMQ4a1hK5NSAkumfj',
@@ -136,12 +136,12 @@ const Contact = () => {
         <div className="mt-5 contact__options">
           <article className="contact__option">
             <MdEmail />
-            <a href="mailto:aarti.rathi1710@gmail.com" target="_blank" className="blue-text-gradient">aarti.rathi1710@gmail.com</a>
+            <a href="mailto:verma.lakshya071@gmail.com" target="_blank" className="blue-text-gradient">verma.lakshya071@gmail.com</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp />
             <a href="https://api.whatsapp.com/send/?phone=917040031669&text&app_absent=0&lang=en" target="_blank" className="blue-text-gradient">
-              +91 7040031669
+              +91 9878801587
             </a>
           </article>
         </div>
